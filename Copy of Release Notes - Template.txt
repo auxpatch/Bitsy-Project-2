@@ -1,0 +1,27 @@
+﻿Release Notes TEMPLATE
+Note: This is often a .txt file or .md file placed in the root of the project itself.
+﻿
+Game Project: Record Day - Bitsy
+Creator: Jakob Lewis        
+Version: 1.2
+Date: 1/18/2025
+
+
+New features
+* ﻿N/A
+﻿
+Fixes
+* N/A
+﻿
+Improvements (of existing features)
+* Music now does not play until a record is found at the end of the game.
+* More art assets! To make it feel more like a game and make it feel more like a lived in place in a house than a room for a demo.
+
+
+
+
+Known Bugs
+* ﻿Player can walk to other side of door when entering new area and go out of bounds
+
+
+﻿
